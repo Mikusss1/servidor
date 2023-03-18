@@ -1,0 +1,10 @@
+{
+	"menu":[
+		{
+			"nombre":"Hamburguesa", 
+			"descripcion":"Es una Hamburguesa con carne, queso, lechuga",
+			 "precio":100
+			
+		}
+	]
+}
